@@ -1,0 +1,9 @@
+/home/ramonoliveira/apriltags_ros-indigo-devel/apriltags/build/CMakeFiles/_catkin_empty_exported_target.dir
+/home/ramonoliveira/apriltags_ros-indigo-devel/apriltags/build/CMakeFiles/apriltags.dir
+/home/ramonoliveira/apriltags_ros-indigo-devel/apriltags/build/CMakeFiles/clean_test_results.dir
+/home/ramonoliveira/apriltags_ros-indigo-devel/apriltags/build/CMakeFiles/download_extra_data.dir
+/home/ramonoliveira/apriltags_ros-indigo-devel/apriltags/build/CMakeFiles/doxygen.dir
+/home/ramonoliveira/apriltags_ros-indigo-devel/apriltags/build/gtest/CMakeFiles/gtest.dir
+/home/ramonoliveira/apriltags_ros-indigo-devel/apriltags/build/gtest/CMakeFiles/gtest_main.dir
+/home/ramonoliveira/apriltags_ros-indigo-devel/apriltags/build/CMakeFiles/run_tests.dir
+/home/ramonoliveira/apriltags_ros-indigo-devel/apriltags/build/CMakeFiles/tests.dir

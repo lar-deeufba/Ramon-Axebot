@@ -1,0 +1,43 @@
+FILE(REMOVE_RECURSE
+  "qrc_images.cxx"
+  "ui_settings_window.h"
+  "ui_main_window.h"
+  "ui_log_window.h"
+  "ui_field_window.h"
+  "include/ros_gui/moc_settings_window.cxx"
+  "include/ros_gui/moc_field_window.cxx"
+  "include/ros_gui/moc_controller.cxx"
+  "include/ros_gui/moc_serialCommunication.cxx"
+  "include/ros_gui/moc_main_window.cxx"
+  "include/ros_gui/moc_log_window.cxx"
+  "include/ros_gui/moc_serial_port.cxx"
+  "include/ros_gui/moc_qnode.cxx"
+  "include/ros_gui/moc_field.cxx"
+  "CMakeFiles/ros_gui.dir/src/settings_window.cpp.o"
+  "CMakeFiles/ros_gui.dir/src/qnode.cpp.o"
+  "CMakeFiles/ros_gui.dir/src/controller.cpp.o"
+  "CMakeFiles/ros_gui.dir/src/main_window.cpp.o"
+  "CMakeFiles/ros_gui.dir/src/log_window.cpp.o"
+  "CMakeFiles/ros_gui.dir/src/field.cpp.o"
+  "CMakeFiles/ros_gui.dir/src/serialCommunication.cpp.o"
+  "CMakeFiles/ros_gui.dir/src/serial_port.cpp.o"
+  "CMakeFiles/ros_gui.dir/src/field_window.cpp.o"
+  "CMakeFiles/ros_gui.dir/src/main.cpp.o"
+  "CMakeFiles/ros_gui.dir/qrc_images.cxx.o"
+  "CMakeFiles/ros_gui.dir/include/ros_gui/moc_settings_window.cxx.o"
+  "CMakeFiles/ros_gui.dir/include/ros_gui/moc_field_window.cxx.o"
+  "CMakeFiles/ros_gui.dir/include/ros_gui/moc_controller.cxx.o"
+  "CMakeFiles/ros_gui.dir/include/ros_gui/moc_serialCommunication.cxx.o"
+  "CMakeFiles/ros_gui.dir/include/ros_gui/moc_main_window.cxx.o"
+  "CMakeFiles/ros_gui.dir/include/ros_gui/moc_log_window.cxx.o"
+  "CMakeFiles/ros_gui.dir/include/ros_gui/moc_serial_port.cxx.o"
+  "CMakeFiles/ros_gui.dir/include/ros_gui/moc_qnode.cxx.o"
+  "CMakeFiles/ros_gui.dir/include/ros_gui/moc_field.cxx.o"
+  "/home/ramonoliveira/catkin_ws/devel/lib/ros_gui/ros_gui.pdb"
+  "/home/ramonoliveira/catkin_ws/devel/lib/ros_gui/ros_gui"
+)
+
+# Per-language clean rules from dependency scanning.
+FOREACH(lang CXX)
+  INCLUDE(CMakeFiles/ros_gui.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

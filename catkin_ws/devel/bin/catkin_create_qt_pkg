@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# creates a relay to a python script source file, acting as that file.
+# The purpose is that of a symlink
+with open("/home/ramonoliveira/catkin_ws/src/qt_ros-indigo/qt_create/scripts/catkin_create_qt_pkg", 'r') as fh:
+    exec(fh.read())

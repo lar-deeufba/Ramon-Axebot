@@ -1,0 +1,4 @@
+
+
+sudo -s
+catkin_make -DCMAKE_INSTALL_PREFIX=/opt/ros/indigo install

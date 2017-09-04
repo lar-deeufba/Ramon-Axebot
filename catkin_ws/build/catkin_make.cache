@@ -1,0 +1,2 @@
+qt_ros-indigo/qt_build:qt_ros-indigo/qt_create:qt_ros-indigo/qt_ros:ros_gui
+-DCATKIN_DEVEL_PREFIX=/home/ramonoliveira/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ramonoliveira/catkin_ws/install -G Unix Makefiles

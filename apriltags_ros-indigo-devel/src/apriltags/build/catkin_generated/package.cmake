@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "apriltags")
+set(apriltags_MAINTAINER "Mitchell Wills <mwills@wpi.edu>")
+set(apriltags_DEPRECATED "")
+set(apriltags_VERSION "0.1.2")
+set(apriltags_BUILD_DEPENDS "eigen" "cmake_modules" "libv4l-dev" "libopencv-dev")
+set(apriltags_RUN_DEPENDS "eigen" "libv4l-dev" "libopencv-dev")
+set(apriltags_BUILDTOOL_DEPENDS "catkin")

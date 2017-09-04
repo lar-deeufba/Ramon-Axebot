@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "ros_gui")
+set(ros_gui_MAINTAINER "Rafael Farias <cfarias.rafael@gmail.com>")
+set(ros_gui_DEPRECATED "")
+set(ros_gui_VERSION "0.1.0")
+set(ros_gui_BUILD_DEPENDS "qt_build" "roscpp" "rospy" "std_msgs" "message_generation" "libqt4-dev")
+set(ros_gui_RUN_DEPENDS "qt_build" "roscpp" "rospy" "libqt4-dev" "std_msgs" "message_runtime")
+set(ros_gui_BUILDTOOL_DEPENDS "catkin")

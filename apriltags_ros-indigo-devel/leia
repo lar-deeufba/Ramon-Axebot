@@ -1,0 +1,4 @@
+This File is used to recopile the AprilTag_ros vesion; do your alterations to the libraries and then make in the prompt:
+
+sudo -s
+catkin_make -DCMAKE_INSTALL_PREFIX=/opt/ros/indigo install

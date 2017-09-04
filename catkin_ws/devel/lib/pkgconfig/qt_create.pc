@@ -1,0 +1,8 @@
+prefix=/home/ramonoliveira/catkin_ws/devel
+
+Name: qt_create
+Description: Description of qt_create
+Version: 0.2.7
+Cflags: 
+Libs: -L/home/ramonoliveira/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,15 @@
+OpenCV ------------------------------------------------------------------
+Execute the ".sh" archive by typing the following command into terminal:
+ sh install_opencv.sh
+Apriltags ---------------------------------------------------------------
+Ceate a folder and copy the content of "apriltags_ros-indigo-devel" to a 
+subfolder named "src" and type the following command into terminal:
+ catkin_make -DCMAKE_INSTALL_PREFIX=/opt/ros/indigo install
+Jessi -------------------------------------------------------------------
+Create a catkin_ws, then replace the "src" folder by the one in the catkin
+that is in this repository. Type these following commands into terminal to
+run the code:
+ source devel/setup.bash
+ catkin_make
+ rosrun ros_gui ros_gui
+
